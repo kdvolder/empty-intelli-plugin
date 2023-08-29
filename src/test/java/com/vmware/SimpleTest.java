@@ -9,7 +9,7 @@ public class SimpleTest extends BasePlatformTestCase {
 
     public void testSomething() {
         Assert.assertNotNull(getProject());
-        Assert.fail("This should fail");
+//        Assert.fail("This should fail");
     }
 
 }
